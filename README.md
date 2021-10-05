@@ -12,12 +12,12 @@ I always believe in continuous learning and synthesizing whatever I've learned i
 ---
 
 ### 🌟My Journey
-| Type        | Date        | Organization   | Content                                                                     | Location         |
-| --------    | --------    | --------       | --------     | --------                                                     | --------         |           
-| 🚀Internship🚀  | Jun 2021 ~ Dec 2021     | Workstream | Software Engineer                                               | San Francisco,CA |
-| 🚀Internship🚀  | Jan 2021 ~ May 2021     | SAP | Software Developer                                                     | Singapore, SG    |
-| 🚀Internship🚀  | May 2020 ~ July 2020    | Yara International | DevOps Engineer                                         | Singapore, SG    |
-| 🎓Education🎓   | Aug 2018 ~ Oct 2022     | Nanyang Technological University of Singapore | B.A. (Hons) Computer Science | Singapore, SG    |
+| Type           | Date        | Organization   | Content | Location   |
+| --------       | --------    | --------       | --------| --------   |          
+| 🚀Internship  | Jun 2021 ~ Dec 2021     | Workstream | Software Engineer                                               | San Francisco,CA |
+| 🚀Internship  | Jan 2021 ~ May 2021     | SAP | Software Developer                                                     | Singapore, SG    |
+| 🚀Internship  | May 2020 ~ July 2020    | Yara International | DevOps Engineer                                         | Singapore, SG    |
+| 🎓Education   | Aug 2018 ~ Oct 2022 (Expected)     | Nanyang Technological University of Singapore | B.A. (Hons) Computer Science | Singapore, SG    |
 
 ---
 
