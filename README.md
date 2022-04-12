@@ -6,15 +6,16 @@
 - ⚡ About Me: My name is Royce, and I'm someone with tremendous compassion for the society and community around me. 
 I always believe in continuous learning and synthesizing whatever I've learned into creation, ultimately creating enduring values by profoundly improving people's lives. 
 - 😄 Pronouns: He/Him
-- 🌎 Location: I’m currently in San Francisco, California 🇺🇸.
-- 🔭 Working On: I'm in a hyper growth startup that aims to accelerate the great rehiring during this pandemic. 
+- 🌎 Location: I’m currently in Singapore 🇸🇬.
+- 🔭 Working On: Completing my final year of studies.  
 
 ---
 
 ### 🌟My Journey
 | Type           | Date        | Organization   | Content | Location   |
-| --------       | --------    | --------       | --------| --------   |          
-| 🚀Internship   | Jun 2021 ~ Present     | Workstream | Software Engineer                                               | 🇺🇸 San Francisco, CA |
+| --------       | --------    | --------       | --------| --------   |     
+| 🚀Internship   | Summer 2022     | Visa | Software Engineer                                               |.      🇺🇸 San Francisco, CA |
+| 🚀Internship   | Jun 2021 ~ Dec 2021     | Workstream | Software Engineer                                               | 🇺🇸 San Francisco, CA |
 | 🚀Internship   | Jan 2021 ~ May 2021     | SAP | Software Developer                                                     |🇸🇬 Singapore, SG    |
 | 🚀Internship   | May 2020 ~ July 2020    | Yara International | DevOps Engineer                                         | 🇸🇬 Singapore, SG    |
 | 🎓Education    | Aug 2018 ~ Oct 2022 (Expected)     | Nanyang Technological University of Singapore | B.A. (Hons) Computer Science | 🇸🇬 Singapore, SG    |
