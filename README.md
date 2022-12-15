@@ -6,7 +6,7 @@
 - ⚡ About Me: My name is Royce, and I'm someone with tremendous compassion for the society and community around me. 
 I always believe in continuous learning and synthesizing whatever I've learned into creation, ultimately creating enduring values by profoundly improving people's lives. 
 - 😄 Pronouns: He/Him
-- 🌎 Location: I’m currently in San Francisco, CA 🇺🇸🇬.
+- 🌎 Location: I’m currently in San Francisco, CA 🇺🇸.
 - 🔭 Working On: Completing my final year of studies.  
 
 ---
