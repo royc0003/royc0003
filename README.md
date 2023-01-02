@@ -7,7 +7,7 @@
 I always believe in continuous learning and synthesizing whatever I've learned into creation, ultimately creating enduring values by profoundly improving people's lives. 
 - 😄 Pronouns: He/Him
 - 🌎 Location: I’m currently in San Francisco, CA 🇺🇸.
-- 🔭 Working On: Completing my final year of studies.  
+- 🔭 Working On: Seeking for exciting opportunites in a start-up ecosystem to "put a dent in the universe".
 
 ---
 
