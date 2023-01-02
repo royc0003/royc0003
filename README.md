@@ -8,7 +8,7 @@ I always believe in continuous learning and synthesizing whatever I've learned i
 - 😄 Pronouns: He/Him
 - 🌎 Location: I’m currently in San Francisco, CA 🇺🇸.
 - 🔭 Working On: Seeking for exciting opportunites in a start-up ecosystem to "put a dent in the universe".
-- 🤓 Fun Fact: I once was a biotechnoligist, and was researching on cancer using the latest CRIPSR Cas9 gene editting tool in a renowned Research Institution in Singapore.
+- 😲 Fun Fact: I once was a biotechnologist; researched cancer using the latest CRISPR Cas9 gene editing tool in a renowned Research Institution in Singapore.
 
 ---
 
