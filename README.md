@@ -25,7 +25,7 @@ I always believe in continuous learning and synthesizing whatever I've learned i
 ---
 
 - 📫 How to reach me: royceang0125@gmail.com
-- 👥 LinkedIn: [royceang](https://www.linkedin.com/in/royce-ang-175834165/)
+<!-- - 👥 LinkedIn: [royceang](https://www.linkedin.com/in/royce-ang-175834165/) -->
 
 
 ---
