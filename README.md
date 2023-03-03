@@ -3,7 +3,7 @@
 # Royce Ang [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Froyc0003%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-- ⚡ About Me: My name is Royce, and I'm someone with tremendous compassion for the society and community around me. 
+- ⚡ About Me: I'm Royce and I have a tremendous compassion for the society and community around me. 
 I always believe in continuous learning and synthesizing whatever I've learned into creation, ultimately creating enduring values by profoundly improving people's lives. 
 - 😄 Pronouns: He/Him
 - 🌎 Location: I’m currently in San Francisco, CA 🇺🇸.
