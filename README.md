@@ -15,7 +15,8 @@ I always believe in continuous learning and synthesizing whatever I've learned i
 ### 🌟My Journey
 | Type           | Date        | Organization   | Content | Location   |
 | --------       | --------    | --------       | --------| --------   |     
-| 🚀 Full Time    | Apr 2023 ~ Present     | Visa | Software Engineer                                                     | 🇸🇬 Singapore, SG     |
+| 🎓Education    | May 2024 ~ Dec 2025    | Carnegie Mellon University | Masters Programme in the School of Computer Science                                               | 🇺🇸 Pittsburgh, PA |
+| 🚀 Full Time   | Apr 2023 ~ Present     | Visa | Software Engineer                                                     | 🇸🇬 Singapore, SG     |
 | 🚀Internship   | May 2022 ~ Jul 2022    | Visa | Software Engineer                                                      | 🇸🇬 Singapore, SG     |
 | 🚀Internship   | Jun 2021 ~ Dec 2021    | Workstream | Software Engineer                                                | 🇺🇸 San Francisco, CA |
 | 🚀Internship   | Jan 2021 ~ May 2021    | SAP | Software Developer                                                      | 🇸🇬 Singapore, SG     |
