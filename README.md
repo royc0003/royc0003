@@ -6,7 +6,7 @@
 - ⚡ About Me: I'm Royce and I have a tremendous compassion for the society and community around me. 
 I always believe in continuous learning and synthesizing whatever I've learned into creation, ultimately creating enduring values by profoundly improving people's lives. 
 - 😄 Pronouns: He/Him
-- 🌎 Location: I’m currently in San Francisco, CA 🇺🇸.
+- 🌎 Location: I’m currently in Pittsburgh, PA 🇺🇸.
 - 🔭 Working On: Seeking for exciting opportunites in a start-up ecosystem to "put a dent in the universe".
 - 😲 Fun Fact: I was a biotechnologist; researched cancer using the latest CRISPR Cas9 gene editing tool in a renowned Research Institution in Singapore.
 
