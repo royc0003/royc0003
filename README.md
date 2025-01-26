@@ -15,6 +15,7 @@ I always believe in continuous learning and synthesizing whatever I've learned i
 ### 🌟My Journey
 | Type           | Date        | Organization   | Content | Location   |
 | --------       | --------    | --------       | --------| --------   |     
+| 🚀Internship   | May 2025 ~ Aug 2025    | NVIDIA | Software Engineer                                                | 🇺🇸 Santa Clara, CA |
 | 🎓Education    | May 2024 ~ Dec 2025    | Carnegie Mellon University | Masters Programme in the School of Computer Science                                            | 🇺🇸 Pittsburgh, PA |
 | 🚀 Full Time   | Jan 2023 ~ Jul 2024    | Visa | Software Engineer                                                     | 🇸🇬 Singapore, SG     |
 | 🚀Internship   | May 2022 ~ Jul 2022    | Visa | Software Engineer                                                      | 🇸🇬 Singapore, SG     |
